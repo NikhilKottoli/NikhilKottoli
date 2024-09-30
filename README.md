@@ -6,7 +6,7 @@ Welcome to my portfolio! I'm Nikhil Kottoli, a web developer passionate about cr
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="50" />
 </a>
 <p>     <p>
-<a href="https://alphaplayerofdooms.github.io/Portfolio/">
+<a href="https://nikhilkottoli.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" width="150" height="50" />
 </a>
 

@@ -2,11 +2,18 @@
 
 Welcome to my portfolio! I'm **Nikhil Kottoli**, a passionate web developer dedicated to building innovative, user-centric web applications. I enjoy crafting seamless user experiences through clean, efficient code and modern design practices.
 
-<a href="https://www.linkedin.com/in/nikhil-kottoli-92552128a/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="30" />
+<a href="https://www.linkedin.com/in/nikhil-kottoli-92552128a/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"
+       alt="LinkedIn"
+       width="150"
+       height="30" />
 </a>
-<a href="https://portfolio-neon-nine-34.vercel.app/">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" width="150" height="30" />
+
+<a href="https://portfolio-neon-nine-34.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white"
+       alt="Portfolio"
+       width="150"
+       height="30" />
 </a>
 
 ---

@@ -9,7 +9,7 @@ Welcome to my portfolio! I'm **Nikhil Kottoli**, a passionate web developer dedi
        height="30" />
 </a>
 
-<a href="https://portfolio-neon-nine-34.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://nikhilkottoli.me/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white"
        alt="Portfolio"
        width="150"
